@@ -1,2 +1,2 @@
 rootProject.name = "nowinjvm"
-include("app")
+include("advent-of-code")
