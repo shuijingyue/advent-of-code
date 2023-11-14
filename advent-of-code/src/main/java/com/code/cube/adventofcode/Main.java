@@ -4,7 +4,7 @@ public class Main implements Runnable {
 
     @Override
     public void run() {
-        Day day = Day.newInstance(2022, 6);
+        Day day = Day.newInstance(2022, 7);
         day.printResult();
     }
 
