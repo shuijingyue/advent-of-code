@@ -10,7 +10,7 @@ buildscript {
     }
 }
 
-group = "now.in.jvm"
+group = "com.code.cube"
 version = "0.0.1"
 
 allprojects {

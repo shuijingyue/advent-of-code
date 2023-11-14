@@ -1,10 +1,10 @@
-package com.code.sjy.adventofcode;
+package com.code.cube.adventofcode;
 
 public class Main implements Runnable {
-    
+
     @Override
     public void run() {
-        Day day = new Day20221201();
+        Day day = Day.newInstance(2022, 6);
         day.printResult();
     }
 
